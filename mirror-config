@@ -1,0 +1,13 @@
+#!/bin/bash
+
+mirror_config_version=1
+
+# Customize to your need.
+enable_email=0
+admin_email=
+sync_remote=rsync://mirrors.xmu.edu.cn/gentoo
+mirror_path=/data/gentoo
+mirror_name=gentoo
+
+
+# vim:set ai et ts=4 sw=4 sts=4 fenc=utf-8:
